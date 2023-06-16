@@ -1,2 +1,1 @@
-# precourse-herry
-este es un repositorio del modulo2 de precourse de herry
+este proyecto es un prueba de como crear un repositorio y clonarlo desde github a mi computadora
